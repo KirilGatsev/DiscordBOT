@@ -1,0 +1,12 @@
+{
+  "name": "deletejoke",
+  "description": "Deletes the joke with the specific id",
+  "options": [
+    {
+      "name": "id",
+      "description": "Id of joke you want to delete",
+      "type": 4,
+      "required": true
+    }
+  ]
+}

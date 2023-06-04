@@ -1,0 +1,12 @@
+{
+    "name": "addjoke",
+    "description": "Adds a joke",
+    "options": [
+        {
+            "name": "joke",
+            "description": "Joke you want to add",
+            "type": 3,
+            "required": true
+        }
+    ]
+}
